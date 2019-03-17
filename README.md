@@ -1,7 +1,5 @@
 # intro-dev-tycoon
 
----
-
 DevTycoon 첫 번째 사이드 프로젝트 - 스터디 소개 웹사이트
 
 멤버 및 스터디 소개 웹 사이트
